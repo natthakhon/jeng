@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\JengMain\JengLib\bin\Debug\netcoreapp3.1\JengLib.deps.json
+C:\Users\Administrator\source\repos\JengMain\JengLib\bin\Debug\netcoreapp3.1\JengLib.dll
+C:\Users\Administrator\source\repos\JengMain\JengLib\bin\Debug\netcoreapp3.1\JengLib.pdb
+C:\Users\Administrator\source\repos\JengMain\JengLib\obj\Debug\netcoreapp3.1\JengLib.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\JengMain\JengLib\obj\Debug\netcoreapp3.1\JengLib.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\JengMain\JengLib\obj\Debug\netcoreapp3.1\JengLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JengMain\JengLib\obj\Debug\netcoreapp3.1\JengLib.dll
+C:\Users\Administrator\source\repos\JengMain\JengLib\obj\Debug\netcoreapp3.1\JengLib.pdb
+C:\Users\Administrator\source\repos\JengMain\JengLib\obj\Debug\netcoreapp3.1\JengLib.csprojAssemblyReference.cache
